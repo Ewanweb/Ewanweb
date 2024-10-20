@@ -36,7 +36,7 @@
 <h4 align="left">💫 Learning</h4>
 
 ## My stats
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=mahancrx&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=mahancrx&theme=vue-dark&hide_border=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=Ewanweb&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=Ewanweb&theme=vue-dark&hide_border=true' />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahancrx&theme=blue-green">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ewanweb&theme=blue-green">
