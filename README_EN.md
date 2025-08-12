@@ -2,6 +2,7 @@
 ---
 
 # Mahan Mahmoudi
+[🌐 این صفحه را با زبان فارسی ببینید](https://github.com/Ewanweb/Ewanweb/blob/main/README.md)
 
 <img align="center" src="https://github.com/mahancrx/mahancrx/assets/87831227/dbc71c23-9e98-40b3-b8b3-65b4ca91d1a7" alt="Mahan Mahmodi" />
 
