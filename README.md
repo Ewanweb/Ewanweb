@@ -13,15 +13,17 @@
 ---
 
 ## 💼 مهارت‌ها
-- زبان‌ها: C#، Golang (آشنایی)
-- فریم‌ورک‌ها: ASP.NET Core
-- پایگاه داده: SQL Server، MongoDB
+- زبان‌ها: C#، Php, JavaScript
+- فریم‌ورک‌ها: ASP.NET Core, Laravel, React, NodeJs, NextJs
+- پایگاه داده: SQL Server، MongoDB, MySql
 - معماری نرم‌افزار: Clean Architecture، DDD
 - توسعه API: RESTful API
 - مفاهیم: SOLID، CQRS، Unit Testing
 - ابزارها: Git، Docker، Redis
 - سیستم‌های مدیریت محتوا: WordPress
 
+## برای دیدن نمونه کار های من میتونید به آدرس این سایت مراجعه کنید 
+<a href="https://mahanmahmoudi.ir/">ماهان محمودی</a>
 ---
 
 ## 📊 آمار گیت‌هاب
