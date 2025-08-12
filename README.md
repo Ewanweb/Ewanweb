@@ -1,7 +1,7 @@
 # ماهان محمودی
 [🌐 View this page in English](https://github.com/Ewanweb/Ewanweb/blob/main/README_EN.md)
 
-<img align="center" src="https://github.com/mahancrx/mahancrx/assets/87831223-9e98-40b3-b8b3-65b4ca91d1a7" alt="ماهان محمودی">
+<img align="center" src="https://github.com/mahancrx/mahancrx/assets/87831227/dbc71c23-9e98-40b3-b8b3-65b4ca91d1a7" alt="Mahan Mahmodi" />
 
 ## 👋 درباره من
 من ماهان محمودی هستم، برنامه‌نویس بک‌اند با تجربه در **ASP.NET Core** و معماری‌های نرم‌افزاری مدرن.  
